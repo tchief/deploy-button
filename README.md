@@ -7,3 +7,5 @@
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/tchief/deploy-button#TOKEN=token&SECRET=secret)
 
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/tchief/deploy-button&env[TOKEN]=token&env[SECRET]=secret)
+
+[![Deploy to Deno](https://deno.com/deno-deploy-button.svg)](https://publish.deno.dev?env=TOKEN,SECRET)
